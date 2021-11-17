@@ -8,6 +8,7 @@ echo "1) liha ja kartulid"
 echo "2) kala ja krõpsud"
 echo "3) supp ja salat"
 #Loe valik
+echo -n "Tee oma valik (1 või 2 või 3): "
 read valik
 
 #Tingimuslause kui valik on 1 tee"
